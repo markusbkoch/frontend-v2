@@ -4,6 +4,7 @@ function getChainAddress(chainId: number, address: string) {
   }
   const map = {
     1: {},
+    5: {},
     42: {
       '0xdfcea9088c8a88a76ff74892c1457c17dfeef9c1':
         '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',

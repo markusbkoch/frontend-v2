@@ -30,6 +30,8 @@ export default class Service {
     switch (NETWORK) {
       case '1':
         return 13;
+      case '5':
+        return 15;
       case '42':
         // Should be ~4s but this causes subgraph to return with unindexed block error.
         return 1;

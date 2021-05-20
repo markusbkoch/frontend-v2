@@ -3,6 +3,10 @@
     "input": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
     "output": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
   },
+  "5": {
+    "input": "0x78dEca24CBa286C0f8d56370f5406B48cFCE2f86",
+    "output": "0x80272c960b862B4d6542CDB7338Ad1f727E0D18d"
+  },
   "42": {
     "input": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
     "output": "0x04DF6e4121c27713ED22341E7c7Df330F56f289B"

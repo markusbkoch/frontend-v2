@@ -11,6 +11,11 @@ export const constants = {
     merkleRedeem: '0x6d19b2bF3A36A61530909Ae65445a906D98A2Fa8',
     snapshot: 'balancer-team-bucket.storage.fleek.co/balancer-claim/snapshot'
   },
+  5: {
+    merkleRedeem: '0x3bc73D276EEE8cA9424Ecb922375A0357c1833B3',
+    snapshot:
+      'balancer-team-bucket.storage.fleek.co/balancer-claim-kovan/snapshot'
+  },
   42: {
     merkleRedeem: '0x3bc73D276EEE8cA9424Ecb922375A0357c1833B3',
     snapshot:
